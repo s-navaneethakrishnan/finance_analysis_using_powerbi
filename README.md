@@ -110,15 +110,12 @@ The dataset contains financial transaction data including:
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+### Consumer Analysis
+![Consumer Analysis](finance_Analysis/power%20bi/Screenshot%202026-07-04%20102151.png)
 
-Example:
+### Transaction Analysis
+![Transaction Analysis](finance_Analysis/power%20bi/Screenshot%202026-07-04%20102220.png)
 
-```
-finance_Analysis/power bi/Screenshot 2026-07-04 102151.png
----
-finance_Analysis/power bi/Screenshot 2026-07-04 102220.png
----
 
 ## 🔄 Project Workflow
 
