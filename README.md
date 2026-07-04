@@ -115,11 +115,9 @@ The dataset contains financial transaction data including:
 Example:
 
 ```
-images/dashboard-overview.png
-images/sales-analysis.png
-images/profit-analysis.png
-```
-
+finance_Analysis/power bi/Screenshot 2026-07-04 102151.png
+---
+finance_Analysis/power bi/Screenshot 2026-07-04 102220.png
 ---
 
 ## 🔄 Project Workflow
